@@ -11,13 +11,13 @@
   
 </div>
 
-- 🎓 Student of Information Systems at the Mauritius University of Nassau;;
+- 🎓 Student of Information Systems at the Mauritius University of Nassau;
 - 👨‍💻 Front-end Developer;
 - ❤️ Passionate about Front-End;
 - 🌱 Studying React.js, TypeScript and C#;
 - 😊 Instagram page creator @matheusscfr;
 - 🧩 I love solving challenges;
-- 🎸 I love playing a video-games;
+- 🎮 I love playing a video-games;
 - 🌍 I'm based in Recife, PE.
 - ✉️ You can contact me at [matheusscfr@gmail.com](mailto:matheusscfr@gmail.com)
 - 💬 Ask me about **React**
