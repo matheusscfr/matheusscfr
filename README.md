@@ -14,7 +14,7 @@
 - 🎓 Student of Information Systems at the Mauritius University of Nassau;
 - 👨‍💻 Front-end Developer;
 - ❤️ Passionate about Front-End;
-- 🌱 Studying React.js, TypeScript and C#;
+- 🌱 Studying React, TypeScript and C#;
 - 😊 Instagram page creator @matheusscfr;
 - 🧩 I love solving challenges;
 - 🎮 I love playing a video-games;
