@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Matheus Ferreira</h2>
-<h4 align="center">A passionate developer from Brazil</h4>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusscfr" alt="matheusscfr" /></a> </p>
@@ -13,8 +12,7 @@
 
 - 🎓 Student of Information Systems at the Mauritius University of Nassau;
 - 👨‍💻 Front-end Developer;
-- ❤️ Passionate about Front-End;
-- 🌱 Studying React, TypeScript and C#;
+- 🌱 Studying React, TypeScript and Springboot;
 - 😊 Instagram page creator @matheusscfr;
 - 🧩 I love solving challenges;
 - 🎮 I love playing a video-games;
