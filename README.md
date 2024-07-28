@@ -11,7 +11,6 @@
 </div>
 
 - 🎓 Student of Information Systems at the Mauritius University of Nassau;
-- 👨‍💻 Front-end Developer;
 - 🌱 Studying React, TypeScript and Springboot;
 - 😊 Instagram page creator @matheusscfr;
 - 🧩 I love solving challenges;
