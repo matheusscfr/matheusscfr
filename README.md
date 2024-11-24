@@ -17,7 +17,6 @@
 - 🎮 I love playing a video-games;
 - 🌍 I'm based in Recife, PE.
 - ✉️ You can contact me at [matheusscfr@gmail.com](mailto:matheusscfr@gmail.com)
-- 💬 Ask me about **React**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
