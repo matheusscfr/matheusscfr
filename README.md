@@ -10,7 +10,7 @@
   
 </div>
 
-- 🎓 Student of Information Systems at the Mauritius University of Nassau;
+- 🎓 Student of Information Systems at the Faculdade Mauricio de Nassau;
 - 🌱 Studying React, TypeScript and Springboot;
 - 😊 Instagram page creator @matheusscfr;
 - 🧩 I love solving challenges;
