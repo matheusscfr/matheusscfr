@@ -11,7 +11,7 @@
 </div>
 
 - 🎓 Student of Information Systems at the Faculdade Mauricio de Nassau;
-- 🌱 Studying React, TypeScript and Springboot;
+- 🌱 I work with React, TypeScript and NodeJS, NestJS and Fastify;
 - 😊 Instagram page creator @matheusscfr;
 - 🧩 I love solving challenges;
 - 🎮 I love playing a video-games;
